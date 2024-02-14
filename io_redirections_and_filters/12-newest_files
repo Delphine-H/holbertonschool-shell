@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -latr | grep "^-" | head -n10
+ls -lat | grep "^-" | head -n10
