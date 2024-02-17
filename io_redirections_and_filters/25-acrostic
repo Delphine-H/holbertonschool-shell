@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c1 --output-delimiter=""
+cut -c1 | tr -d "/n" 
