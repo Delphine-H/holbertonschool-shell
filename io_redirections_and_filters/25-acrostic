@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -z -c1
+cut -c1 --output-delimiter=""
