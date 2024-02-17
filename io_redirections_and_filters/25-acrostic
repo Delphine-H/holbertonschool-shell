@@ -1,1 +1,2 @@
-a\nb\nc
+#!/bin/bash
+cut -z -c1
